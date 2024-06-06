@@ -32,13 +32,15 @@ Ensure you have Python installed. You can download it from **python.org**.
 Navigate to the project directory.
 Run the game using the command:
 
-**python milestone_3.py**
+**python milestone_4.py**
 
 Follow the on-screen prompts to play the game.
 
 ## File Structure
 your-repository/
+- milestone_2.py
 - milestone_3.py
+- milestone_4.py
 - README.md
 
 ## License Information
